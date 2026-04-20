@@ -57,13 +57,7 @@ All layers use a custom **PrunableLinear** module with learnable gating.
 
 ---
 
-## 📊 Results
 
-### 🔹 Gate Distribution
-
-![Gate Distribution](results/plots.png)
-
----
 
 ## 📁 Project Structure
 
